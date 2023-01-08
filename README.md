@@ -1,6 +1,7 @@
 # helloworld
 
-A new Flutter project.
+フラッターに入門するために、データを永続化しない簡単なtodoアプリ(todo追加➡︎表示のみ)を作成します
+参考記事は[これ](https://www.flutter-study.dev/todo-app/about-todo-app)です。
 
 ## Getting Started
 
